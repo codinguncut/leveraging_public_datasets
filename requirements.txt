@@ -1,1 +1,7 @@
 jupyter
+BigQuery-Python
+oauth2client
+twitter
+python-dotenv
+tqdm
+requests
