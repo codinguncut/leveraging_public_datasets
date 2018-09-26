@@ -5,3 +5,10 @@ twitter
 python-dotenv
 tqdm
 requests
+boto
+git+https://github.com/commoncrawl/gzipstream.git#egg=gzipstream
+warcio
+smart_open
+lxml
+w3lib
+extract-social-media
