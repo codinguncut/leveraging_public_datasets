@@ -19,3 +19,7 @@ In order to code along fully with this talk you will need to setup a couple of (
 * Youtube (free API key)
 
 Please check at the top of the respective notebooks how to setup those credentials.
+
+## .env
+
+Once you have the respective credentials, copy `sample.env` to `.env` and put your credentials in this file. The file is not tracked/ ignored by git.
