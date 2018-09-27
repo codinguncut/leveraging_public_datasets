@@ -7,8 +7,6 @@ Public Datasets and APIs with Johannes Ahlmann
 * create a new virtual environment using python 3.x
 * install requirements `pip install -r requirements.txt`
 * launch jupyter notebooks `jupyter-notebook`
-* navigate to `01_Introduction.ipynb` in your browser
-* TODO: create a docker config for this project
 
 ## Credentials
 
@@ -17,6 +15,7 @@ In order to code along fully with this talk you will need to setup a couple of (
 * Google Bigquery (free account)
 * Twitter (free API key)
 * Youtube (free API key)
+* Geonames API/ username (easier to play around with ;)
 
 Please check at the top of the respective notebooks how to setup those credentials.
 
