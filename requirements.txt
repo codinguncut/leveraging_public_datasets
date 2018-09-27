@@ -12,3 +12,6 @@ smart_open
 lxml
 w3lib
 extract-social-media
+google-api-python-client
+python-appengine
+oauth2client
