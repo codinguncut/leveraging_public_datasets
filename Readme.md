@@ -1,4 +1,4 @@
-# Meetup6
+# ODSC Meetup Dublin
 
 Public Datasets and APIs with Johannes Ahlmann
 
