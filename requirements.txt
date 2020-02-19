@@ -17,3 +17,5 @@ python-appengine
 oauth2client
 geocoder
 pandas
+ratelimiter
+tqdm
